@@ -1,0 +1,5 @@
+about_git.txt
+
+git is when i do things locally on my computer. 
+eg// git add. git status. git commit -m "this is an example of git"
+
